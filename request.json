@@ -1,0 +1,7 @@
+{
+"project": "project_name",
+"location": "cloud_region",
+"cluster": "cluster_name",
+"nodePool": "default-pool",
+"nodeCount": 3
+}
